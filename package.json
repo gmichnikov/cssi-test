@@ -1,0 +1,24 @@
+{
+  "name": "cssi-test",
+  "version": "1.0.0",
+  "description": "Greg's files",
+  "main": "debug.js",
+  "dependencies": {
+    "random-int": "^1.0.0",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmichnikov/cssi-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmichnikov/cssi-test/issues"
+  },
+  "homepage": "https://github.com/gmichnikov/cssi-test#readme"
+}
