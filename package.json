@@ -5,7 +5,8 @@
   "main": "debug.js",
   "dependencies": {
     "random-int": "^1.0.0",
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.9",
+    "shuffle-array": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
