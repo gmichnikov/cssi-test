@@ -4,6 +4,8 @@
   "description": "Greg's files",
   "main": "debug.js",
   "dependencies": {
+    "line-by-line": "^0.1.6",
+    "object-equal": "^1.0.0",
     "random-int": "^1.0.0",
     "readline-sync": "^1.4.9",
     "shuffle-array": "^1.0.1"
