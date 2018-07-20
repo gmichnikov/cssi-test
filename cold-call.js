@@ -1,7 +1,27 @@
 console.clear();
 let randomInt = require("random-int");
 
-let names = ["PG (Paul)", "MA", "AG", "JW", "UO", "KC", "YS", "FA", "NC", "KP", "JL", "JB", "HS", "KT", "GT", "JY", "MO", "JC", "OA", "KH"];
+let names = ['AG', 'Alex',
+  'FA',
+  'GT',
+  'HS',
+  'JB',
+  'JC',
+  'JL',
+  'JW',
+  'JY',
+  'KC',
+  'KH',
+  'KP',
+  'KT',
+  'MA',
+  'MO', 'Myles',
+  'NC',
+  'OA',
+  'PG (Paul)',
+  'UO',
+  'YS'
+];
 
 let index = randomInt(names.length - 1);
 let name = names[index];
